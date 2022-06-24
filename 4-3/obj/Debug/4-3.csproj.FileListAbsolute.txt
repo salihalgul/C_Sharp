@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\4-3\4-3\bin\Debug\4-3.exe.config
+C:\Users\Can\Desktop\4-3\4-3\bin\Debug\4-3.exe
+C:\Users\Can\Desktop\4-3\4-3\bin\Debug\4-3.pdb
+C:\Users\Can\Desktop\4-3\4-3\obj\Debug\4-3.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\4-3\4-3\obj\Debug\4-3.exe
+C:\Users\Can\Desktop\4-3\4-3\obj\Debug\4-3.pdb

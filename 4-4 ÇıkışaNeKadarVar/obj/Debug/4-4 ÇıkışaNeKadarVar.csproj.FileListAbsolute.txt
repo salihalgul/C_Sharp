@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\4-4 ÇıkışaNeKadarVar\4-4 ÇıkışaNeKadarVar\bin\Debug\4-4 ÇıkışaNeKadarVar.exe.config
+C:\Users\Can\Desktop\4-4 ÇıkışaNeKadarVar\4-4 ÇıkışaNeKadarVar\bin\Debug\4-4 ÇıkışaNeKadarVar.exe
+C:\Users\Can\Desktop\4-4 ÇıkışaNeKadarVar\4-4 ÇıkışaNeKadarVar\bin\Debug\4-4 ÇıkışaNeKadarVar.pdb
+C:\Users\Can\Desktop\4-4 ÇıkışaNeKadarVar\4-4 ÇıkışaNeKadarVar\obj\Debug\4-4 ÇıkışaNeKadarVar.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\4-4 ÇıkışaNeKadarVar\4-4 ÇıkışaNeKadarVar\obj\Debug\4-4 ÇıkışaNeKadarVar.exe
+C:\Users\Can\Desktop\4-4 ÇıkışaNeKadarVar\4-4 ÇıkışaNeKadarVar\obj\Debug\4-4 ÇıkışaNeKadarVar.pdb

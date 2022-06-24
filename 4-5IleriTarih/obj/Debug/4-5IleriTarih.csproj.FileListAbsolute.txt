@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\4-5IleriTarih\4-5IleriTarih\obj\Debug\4-5IleriTarih.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\4-5IleriTarih\4-5IleriTarih\bin\Debug\4-5IleriTarih.exe.config
+C:\Users\Can\Desktop\4-5IleriTarih\4-5IleriTarih\bin\Debug\4-5IleriTarih.exe
+C:\Users\Can\Desktop\4-5IleriTarih\4-5IleriTarih\bin\Debug\4-5IleriTarih.pdb
+C:\Users\Can\Desktop\4-5IleriTarih\4-5IleriTarih\obj\Debug\4-5IleriTarih.exe
+C:\Users\Can\Desktop\4-5IleriTarih\4-5IleriTarih\obj\Debug\4-5IleriTarih.pdb
+C:\Users\Can\Desktop\4-5IleriTarih\4-5IleriTarih\obj\Debug\4-5IleriTarih.csprojAssemblyReference.cache
