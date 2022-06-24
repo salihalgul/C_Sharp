@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\3-4 Veya\3-4 Veya\bin\Debug\3-4 Veya.exe.config
+C:\Users\Can\Desktop\3-4 Veya\3-4 Veya\bin\Debug\3-4 Veya.exe
+C:\Users\Can\Desktop\3-4 Veya\3-4 Veya\bin\Debug\3-4 Veya.pdb
+C:\Users\Can\Desktop\3-4 Veya\3-4 Veya\obj\Debug\3-4 Veya.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\3-4 Veya\3-4 Veya\obj\Debug\3-4 Veya.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\3-4 Veya\3-4 Veya\obj\Debug\3-4 Veya.exe
+C:\Users\Can\Desktop\3-4 Veya\3-4 Veya\obj\Debug\3-4 Veya.pdb

@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\3-7 Inlıne İf\3-7 Inlıne İf\bin\Debug\3-7 Inlıne İf.exe.config
+C:\Users\Can\Desktop\3-7 Inlıne İf\3-7 Inlıne İf\bin\Debug\3-7 Inlıne İf.exe
+C:\Users\Can\Desktop\3-7 Inlıne İf\3-7 Inlıne İf\bin\Debug\3-7 Inlıne İf.pdb
+C:\Users\Can\Desktop\3-7 Inlıne İf\3-7 Inlıne İf\obj\Debug\3-7 Inlıne İf.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\3-7 Inlıne İf\3-7 Inlıne İf\obj\Debug\3-7 Inlıne İf.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\3-7 Inlıne İf\3-7 Inlıne İf\obj\Debug\3-7 Inlıne İf.exe
+C:\Users\Can\Desktop\3-7 Inlıne İf\3-7 Inlıne İf\obj\Debug\3-7 Inlıne İf.pdb

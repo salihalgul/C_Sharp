@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\3-5 Veya Örnek\3-5 Veya Örnek\obj\Debug\3-5 Veya Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\3-5 Veya Örnek\3-5 Veya Örnek\bin\Debug\3-5 Veya Örnek.exe.config
+C:\Users\Can\Desktop\3-5 Veya Örnek\3-5 Veya Örnek\bin\Debug\3-5 Veya Örnek.exe
+C:\Users\Can\Desktop\3-5 Veya Örnek\3-5 Veya Örnek\bin\Debug\3-5 Veya Örnek.pdb
+C:\Users\Can\Desktop\3-5 Veya Örnek\3-5 Veya Örnek\obj\Debug\3-5 Veya Örnek.exe
+C:\Users\Can\Desktop\3-5 Veya Örnek\3-5 Veya Örnek\obj\Debug\3-5 Veya Örnek.pdb
