@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\Bool\Bool\bin\Debug\Bool.exe.config
+C:\Users\Can\Desktop\Bool\Bool\bin\Debug\Bool.exe
+C:\Users\Can\Desktop\Bool\Bool\bin\Debug\Bool.pdb
+C:\Users\Can\Desktop\Bool\Bool\obj\Debug\Bool.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\Bool\Bool\obj\Debug\Bool.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Bool\Bool\obj\Debug\Bool.exe
+C:\Users\Can\Desktop\Bool\Bool\obj\Debug\Bool.pdb

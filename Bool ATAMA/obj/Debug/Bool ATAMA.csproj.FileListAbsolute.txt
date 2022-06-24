@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\Bool ATAMA\Bool ATAMA\obj\Debug\Bool ATAMA.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Bool ATAMA\Bool ATAMA\bin\Debug\Bool ATAMA.exe.config
+C:\Users\Can\Desktop\Bool ATAMA\Bool ATAMA\bin\Debug\Bool ATAMA.exe
+C:\Users\Can\Desktop\Bool ATAMA\Bool ATAMA\bin\Debug\Bool ATAMA.pdb
+C:\Users\Can\Desktop\Bool ATAMA\Bool ATAMA\obj\Debug\Bool ATAMA.exe
+C:\Users\Can\Desktop\Bool ATAMA\Bool ATAMA\obj\Debug\Bool ATAMA.pdb

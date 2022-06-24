@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\ConvertToint32\ConvertToint32\bin\Debug\ConvertToint32.exe.config
+C:\Users\Can\Desktop\ConvertToint32\ConvertToint32\bin\Debug\ConvertToint32.exe
+C:\Users\Can\Desktop\ConvertToint32\ConvertToint32\bin\Debug\ConvertToint32.pdb
+C:\Users\Can\Desktop\ConvertToint32\ConvertToint32\obj\Debug\ConvertToint32.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\ConvertToint32\ConvertToint32\obj\Debug\ConvertToint32.exe
+C:\Users\Can\Desktop\ConvertToint32\ConvertToint32\obj\Debug\ConvertToint32.pdb
