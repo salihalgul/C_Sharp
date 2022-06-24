@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\OtomatikMail\bin\Debug\OtomatikMail.exe.config
+C:\Users\Can\Desktop\OtomatikMail\bin\Debug\OtomatikMail.exe
+C:\Users\Can\Desktop\OtomatikMail\bin\Debug\OtomatikMail.pdb
+C:\Users\Can\Desktop\OtomatikMail\obj\Debug\OtomatikMail.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\OtomatikMail\obj\Debug\OtomatikMail.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\OtomatikMail\obj\Debug\OtomatikMail.exe
+C:\Users\Can\Desktop\OtomatikMail\obj\Debug\OtomatikMail.pdb
