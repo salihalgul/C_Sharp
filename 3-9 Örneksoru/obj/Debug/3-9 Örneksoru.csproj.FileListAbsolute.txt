@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\3-9 Örneksoru\3-9 Örneksoru\bin\Debug\3-9 Örneksoru.exe.config
+C:\Users\Can\Desktop\3-9 Örneksoru\3-9 Örneksoru\bin\Debug\3-9 Örneksoru.exe
+C:\Users\Can\Desktop\3-9 Örneksoru\3-9 Örneksoru\bin\Debug\3-9 Örneksoru.pdb
+C:\Users\Can\Desktop\3-9 Örneksoru\3-9 Örneksoru\obj\Debug\3-9 Örneksoru.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\3-9 Örneksoru\3-9 Örneksoru\obj\Debug\3-9 Örneksoru.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\3-9 Örneksoru\3-9 Örneksoru\obj\Debug\3-9 Örneksoru.exe
+C:\Users\Can\Desktop\3-9 Örneksoru\3-9 Örneksoru\obj\Debug\3-9 Örneksoru.pdb

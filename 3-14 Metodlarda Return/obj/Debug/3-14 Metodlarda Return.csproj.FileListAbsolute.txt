@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\3-14 Metodlarda Return\3-14 Metodlarda Return\bin\Debug\3-14 Metodlarda Return.exe.config
+C:\Users\Can\Desktop\3-14 Metodlarda Return\3-14 Metodlarda Return\bin\Debug\3-14 Metodlarda Return.exe
+C:\Users\Can\Desktop\3-14 Metodlarda Return\3-14 Metodlarda Return\bin\Debug\3-14 Metodlarda Return.pdb
+C:\Users\Can\Desktop\3-14 Metodlarda Return\3-14 Metodlarda Return\obj\Debug\3-14 Metodlarda Return.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\3-14 Metodlarda Return\3-14 Metodlarda Return\obj\Debug\3-14 Metodlarda Return.exe
+C:\Users\Can\Desktop\3-14 Metodlarda Return\3-14 Metodlarda Return\obj\Debug\3-14 Metodlarda Return.pdb

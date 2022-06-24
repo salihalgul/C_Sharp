@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\3-8 InlineIf Örnek\3-8 InlineIf Örnek\bin\Debug\3-8 InlineIf Örnek.exe.config
+C:\Users\Can\Desktop\3-8 InlineIf Örnek\3-8 InlineIf Örnek\bin\Debug\3-8 InlineIf Örnek.exe
+C:\Users\Can\Desktop\3-8 InlineIf Örnek\3-8 InlineIf Örnek\bin\Debug\3-8 InlineIf Örnek.pdb
+C:\Users\Can\Desktop\3-8 InlineIf Örnek\3-8 InlineIf Örnek\obj\Debug\3-8 InlineIf Örnek.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\3-8 InlineIf Örnek\3-8 InlineIf Örnek\obj\Debug\3-8 InlineIf Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\3-8 InlineIf Örnek\3-8 InlineIf Örnek\obj\Debug\3-8 InlineIf Örnek.exe
+C:\Users\Can\Desktop\3-8 InlineIf Örnek\3-8 InlineIf Örnek\obj\Debug\3-8 InlineIf Örnek.pdb
