@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\Çarpım\Çarpım\bin\Debug\Çarpım.exe.config
+C:\Users\Can\Desktop\Çarpım\Çarpım\bin\Debug\Çarpım.exe
+C:\Users\Can\Desktop\Çarpım\Çarpım\bin\Debug\Çarpım.pdb
+C:\Users\Can\Desktop\Çarpım\Çarpım\obj\Debug\Çarpım.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Çarpım\Çarpım\obj\Debug\Çarpım.exe
+C:\Users\Can\Desktop\Çarpım\Çarpım\obj\Debug\Çarpım.pdb

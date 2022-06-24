@@ -1,0 +1,10 @@
+C:\Users\Can\Desktop\FormOrnek\FormOrnek\bin\Debug\FormOrnek.exe.config
+C:\Users\Can\Desktop\FormOrnek\FormOrnek\bin\Debug\FormOrnek.exe
+C:\Users\Can\Desktop\FormOrnek\FormOrnek\bin\Debug\FormOrnek.pdb
+C:\Users\Can\Desktop\FormOrnek\FormOrnek\obj\Debug\FormOrnek.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\FormOrnek\FormOrnek\obj\Debug\FormOrnek.Form1.resources
+C:\Users\Can\Desktop\FormOrnek\FormOrnek\obj\Debug\FormOrnek.Properties.Resources.resources
+C:\Users\Can\Desktop\FormOrnek\FormOrnek\obj\Debug\FormOrnek.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\FormOrnek\FormOrnek\obj\Debug\FormOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\FormOrnek\FormOrnek\obj\Debug\FormOrnek.exe
+C:\Users\Can\Desktop\FormOrnek\FormOrnek\obj\Debug\FormOrnek.pdb
