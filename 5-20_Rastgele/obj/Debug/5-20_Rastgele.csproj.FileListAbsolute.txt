@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\5-20_Rastgele\5-20_Rastgele\bin\Debug\5-20_Rastgele.exe.config
+C:\Users\Can\Desktop\5-20_Rastgele\5-20_Rastgele\bin\Debug\5-20_Rastgele.exe
+C:\Users\Can\Desktop\5-20_Rastgele\5-20_Rastgele\bin\Debug\5-20_Rastgele.pdb
+C:\Users\Can\Desktop\5-20_Rastgele\5-20_Rastgele\obj\Debug\5-20_Rastgele.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\5-20_Rastgele\5-20_Rastgele\obj\Debug\5-20_Rastgele.exe
+C:\Users\Can\Desktop\5-20_Rastgele\5-20_Rastgele\obj\Debug\5-20_Rastgele.pdb

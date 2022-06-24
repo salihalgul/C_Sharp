@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\5-17_Asalmi\5-17_Asalmi\obj\Debug\5-17_Asalmi.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\5-17_Asalmi\5-17_Asalmi\obj\Debug\5-17_Asalmi.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\5-17_Asalmi\5-17_Asalmi\bin\Debug\5-17_Asalmi.exe.config
+C:\Users\Can\Desktop\5-17_Asalmi\5-17_Asalmi\bin\Debug\5-17_Asalmi.exe
+C:\Users\Can\Desktop\5-17_Asalmi\5-17_Asalmi\bin\Debug\5-17_Asalmi.pdb
+C:\Users\Can\Desktop\5-17_Asalmi\5-17_Asalmi\obj\Debug\5-17_Asalmi.exe
+C:\Users\Can\Desktop\5-17_Asalmi\5-17_Asalmi\obj\Debug\5-17_Asalmi.pdb

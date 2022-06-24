@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\5-19_BreakveContinue\5-19_BreakveContinue\bin\Debug\5-19_BreakveContinue.exe.config
+C:\Users\Can\Desktop\5-19_BreakveContinue\5-19_BreakveContinue\bin\Debug\5-19_BreakveContinue.exe
+C:\Users\Can\Desktop\5-19_BreakveContinue\5-19_BreakveContinue\bin\Debug\5-19_BreakveContinue.pdb
+C:\Users\Can\Desktop\5-19_BreakveContinue\5-19_BreakveContinue\obj\Debug\5-19_BreakveContinue.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\5-19_BreakveContinue\5-19_BreakveContinue\obj\Debug\5-19_BreakveContinue.exe
+C:\Users\Can\Desktop\5-19_BreakveContinue\5-19_BreakveContinue\obj\Debug\5-19_BreakveContinue.pdb
