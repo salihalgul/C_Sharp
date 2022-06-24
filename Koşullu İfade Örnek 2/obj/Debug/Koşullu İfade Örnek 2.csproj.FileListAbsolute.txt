@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\Koşullu İfade Örnek 2\Koşullu İfade Örnek 2\bin\Debug\Koşullu İfade Örnek 2.exe.config
+C:\Users\Can\Desktop\Koşullu İfade Örnek 2\Koşullu İfade Örnek 2\bin\Debug\Koşullu İfade Örnek 2.exe
+C:\Users\Can\Desktop\Koşullu İfade Örnek 2\Koşullu İfade Örnek 2\bin\Debug\Koşullu İfade Örnek 2.pdb
+C:\Users\Can\Desktop\Koşullu İfade Örnek 2\Koşullu İfade Örnek 2\obj\Debug\Koşullu İfade Örnek 2.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\Koşullu İfade Örnek 2\Koşullu İfade Örnek 2\obj\Debug\Koşullu İfade Örnek 2.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Koşullu İfade Örnek 2\Koşullu İfade Örnek 2\obj\Debug\Koşullu İfade Örnek 2.exe
+C:\Users\Can\Desktop\Koşullu İfade Örnek 2\Koşullu İfade Örnek 2\obj\Debug\Koşullu İfade Örnek 2.pdb

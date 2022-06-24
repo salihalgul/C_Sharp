@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\KoşulluİfadelerGiriş\KoşulluİfadelerGiriş\obj\Debug\KoşulluİfadelerGiriş.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\KoşulluİfadelerGiriş\KoşulluİfadelerGiriş\obj\Debug\KoşulluİfadelerGiriş.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\KoşulluİfadelerGiriş\KoşulluİfadelerGiriş\bin\Debug\KoşulluİfadelerGiriş.exe.config
+C:\Users\Can\Desktop\KoşulluİfadelerGiriş\KoşulluİfadelerGiriş\bin\Debug\KoşulluİfadelerGiriş.exe
+C:\Users\Can\Desktop\KoşulluİfadelerGiriş\KoşulluİfadelerGiriş\bin\Debug\KoşulluİfadelerGiriş.pdb
+C:\Users\Can\Desktop\KoşulluİfadelerGiriş\KoşulluİfadelerGiriş\obj\Debug\KoşulluİfadelerGiriş.exe
+C:\Users\Can\Desktop\KoşulluİfadelerGiriş\KoşulluİfadelerGiriş\obj\Debug\KoşulluİfadelerGiriş.pdb

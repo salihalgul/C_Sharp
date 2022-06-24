@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\Koşullu İfade Örnek 4\Koşullu İfade Örnek 4\bin\Debug\Koşullu İfade Örnek 4.exe.config
+C:\Users\Can\Desktop\Koşullu İfade Örnek 4\Koşullu İfade Örnek 4\bin\Debug\Koşullu İfade Örnek 4.exe
+C:\Users\Can\Desktop\Koşullu İfade Örnek 4\Koşullu İfade Örnek 4\bin\Debug\Koşullu İfade Örnek 4.pdb
+C:\Users\Can\Desktop\Koşullu İfade Örnek 4\Koşullu İfade Örnek 4\obj\Debug\Koşullu İfade Örnek 4.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Koşullu İfade Örnek 4\Koşullu İfade Örnek 4\obj\Debug\Koşullu İfade Örnek 4.exe
+C:\Users\Can\Desktop\Koşullu İfade Örnek 4\Koşullu İfade Örnek 4\obj\Debug\Koşullu İfade Örnek 4.pdb
