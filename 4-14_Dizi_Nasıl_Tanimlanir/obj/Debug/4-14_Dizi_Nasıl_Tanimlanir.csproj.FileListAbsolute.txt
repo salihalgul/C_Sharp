@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\4-14_Dizi_Nasıl_Tanimlanir\4-14_Dizi_Nasıl_Tanimlanir\bin\Debug\4-14_Dizi_Nasıl_Tanimlanir.exe.config
+C:\Users\Can\Desktop\4-14_Dizi_Nasıl_Tanimlanir\4-14_Dizi_Nasıl_Tanimlanir\bin\Debug\4-14_Dizi_Nasıl_Tanimlanir.exe
+C:\Users\Can\Desktop\4-14_Dizi_Nasıl_Tanimlanir\4-14_Dizi_Nasıl_Tanimlanir\bin\Debug\4-14_Dizi_Nasıl_Tanimlanir.pdb
+C:\Users\Can\Desktop\4-14_Dizi_Nasıl_Tanimlanir\4-14_Dizi_Nasıl_Tanimlanir\obj\Debug\4-14_Dizi_Nasıl_Tanimlanir.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\4-14_Dizi_Nasıl_Tanimlanir\4-14_Dizi_Nasıl_Tanimlanir\obj\Debug\4-14_Dizi_Nasıl_Tanimlanir.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\4-14_Dizi_Nasıl_Tanimlanir\4-14_Dizi_Nasıl_Tanimlanir\obj\Debug\4-14_Dizi_Nasıl_Tanimlanir.exe
+C:\Users\Can\Desktop\4-14_Dizi_Nasıl_Tanimlanir\4-14_Dizi_Nasıl_Tanimlanir\obj\Debug\4-14_Dizi_Nasıl_Tanimlanir.pdb

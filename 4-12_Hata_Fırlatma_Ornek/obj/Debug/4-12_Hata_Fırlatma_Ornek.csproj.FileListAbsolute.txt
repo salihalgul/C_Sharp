@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\4-12_Hata_Fırlatma_Ornek\4-12_Hata_Fırlatma_Ornek\bin\Debug\4-12_Hata_Fırlatma_Ornek.exe.config
+C:\Users\Can\Desktop\4-12_Hata_Fırlatma_Ornek\4-12_Hata_Fırlatma_Ornek\bin\Debug\4-12_Hata_Fırlatma_Ornek.exe
+C:\Users\Can\Desktop\4-12_Hata_Fırlatma_Ornek\4-12_Hata_Fırlatma_Ornek\bin\Debug\4-12_Hata_Fırlatma_Ornek.pdb
+C:\Users\Can\Desktop\4-12_Hata_Fırlatma_Ornek\4-12_Hata_Fırlatma_Ornek\obj\Debug\4-12_Hata_Fırlatma_Ornek.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\4-12_Hata_Fırlatma_Ornek\4-12_Hata_Fırlatma_Ornek\obj\Debug\4-12_Hata_Fırlatma_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\4-12_Hata_Fırlatma_Ornek\4-12_Hata_Fırlatma_Ornek\obj\Debug\4-12_Hata_Fırlatma_Ornek.exe
+C:\Users\Can\Desktop\4-12_Hata_Fırlatma_Ornek\4-12_Hata_Fırlatma_Ornek\obj\Debug\4-12_Hata_Fırlatma_Ornek.pdb

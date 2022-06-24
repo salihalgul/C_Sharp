@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\4-17_DiziOrnek3\4-17_DiziOrnek3\obj\Debug\4-17_DiziOrnek3.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\4-17_DiziOrnek3\4-17_DiziOrnek3\obj\Debug\4-17_DiziOrnek3.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\4-17_DiziOrnek3\4-17_DiziOrnek3\bin\Debug\4-17_DiziOrnek3.exe.config
+C:\Users\Can\Desktop\4-17_DiziOrnek3\4-17_DiziOrnek3\bin\Debug\4-17_DiziOrnek3.exe
+C:\Users\Can\Desktop\4-17_DiziOrnek3\4-17_DiziOrnek3\bin\Debug\4-17_DiziOrnek3.pdb
+C:\Users\Can\Desktop\4-17_DiziOrnek3\4-17_DiziOrnek3\obj\Debug\4-17_DiziOrnek3.exe
+C:\Users\Can\Desktop\4-17_DiziOrnek3\4-17_DiziOrnek3\obj\Debug\4-17_DiziOrnek3.pdb
