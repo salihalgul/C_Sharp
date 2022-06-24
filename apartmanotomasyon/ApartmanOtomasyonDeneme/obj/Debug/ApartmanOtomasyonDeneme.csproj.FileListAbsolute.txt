@@ -1,0 +1,12 @@
+C:\Users\Can\source\repos\ApartmanOtomasyonDeneme\ApartmanOtomasyonDeneme\bin\Debug\ApartmanOtomasyonDeneme.exe.config
+C:\Users\Can\source\repos\ApartmanOtomasyonDeneme\ApartmanOtomasyonDeneme\bin\Debug\ApartmanOtomasyonDeneme.exe
+C:\Users\Can\source\repos\ApartmanOtomasyonDeneme\ApartmanOtomasyonDeneme\bin\Debug\ApartmanOtomasyonDeneme.pdb
+C:\Users\Can\source\repos\ApartmanOtomasyonDeneme\ApartmanOtomasyonDeneme\obj\Debug\ApartmanOtomasyonDeneme.csprojAssemblyReference.cache
+C:\Users\Can\source\repos\ApartmanOtomasyonDeneme\ApartmanOtomasyonDeneme\obj\Debug\ApartmanOtomasyonDeneme.Form1.resources
+C:\Users\Can\source\repos\ApartmanOtomasyonDeneme\ApartmanOtomasyonDeneme\obj\Debug\ApartmanOtomasyonDeneme.Gelirler.resources
+C:\Users\Can\source\repos\ApartmanOtomasyonDeneme\ApartmanOtomasyonDeneme\obj\Debug\ApartmanOtomasyonDeneme.Giderler.resources
+C:\Users\Can\source\repos\ApartmanOtomasyonDeneme\ApartmanOtomasyonDeneme\obj\Debug\ApartmanOtomasyonDeneme.Properties.Resources.resources
+C:\Users\Can\source\repos\ApartmanOtomasyonDeneme\ApartmanOtomasyonDeneme\obj\Debug\ApartmanOtomasyonDeneme.csproj.GenerateResource.cache
+C:\Users\Can\source\repos\ApartmanOtomasyonDeneme\ApartmanOtomasyonDeneme\obj\Debug\ApartmanOtomasyonDeneme.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\ApartmanOtomasyonDeneme\ApartmanOtomasyonDeneme\obj\Debug\ApartmanOtomasyonDeneme.exe
+C:\Users\Can\source\repos\ApartmanOtomasyonDeneme\ApartmanOtomasyonDeneme\obj\Debug\ApartmanOtomasyonDeneme.pdb
