@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\Yıl-Gün-Ay\Yıl-Gün-Ay\bin\Debug\Yıl-Gün-Ay.exe.config
+C:\Users\Can\Desktop\Yıl-Gün-Ay\Yıl-Gün-Ay\bin\Debug\Yıl-Gün-Ay.exe
+C:\Users\Can\Desktop\Yıl-Gün-Ay\Yıl-Gün-Ay\bin\Debug\Yıl-Gün-Ay.pdb
+C:\Users\Can\Desktop\Yıl-Gün-Ay\Yıl-Gün-Ay\obj\Debug\Yıl-Gün-Ay.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Yıl-Gün-Ay\Yıl-Gün-Ay\obj\Debug\Yıl-Gün-Ay.exe
+C:\Users\Can\Desktop\Yıl-Gün-Ay\Yıl-Gün-Ay\obj\Debug\Yıl-Gün-Ay.pdb

@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\Yaş Sorusu\Yaş Sorusu\bin\Debug\Yaş Sorusu.exe.config
+C:\Users\Can\Desktop\Yaş Sorusu\Yaş Sorusu\bin\Debug\Yaş Sorusu.exe
+C:\Users\Can\Desktop\Yaş Sorusu\Yaş Sorusu\bin\Debug\Yaş Sorusu.pdb
+C:\Users\Can\Desktop\Yaş Sorusu\Yaş Sorusu\obj\Debug\Yaş Sorusu.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Yaş Sorusu\Yaş Sorusu\obj\Debug\Yaş Sorusu.exe
+C:\Users\Can\Desktop\Yaş Sorusu\Yaş Sorusu\obj\Debug\Yaş Sorusu.pdb
