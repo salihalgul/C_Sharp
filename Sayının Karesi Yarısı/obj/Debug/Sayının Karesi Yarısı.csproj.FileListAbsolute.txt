@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\Sayının Karesi Yarısı\Sayının Karesi Yarısı\bin\Debug\Sayının Karesi Yarısı.exe.config
+C:\Users\Can\Desktop\Sayının Karesi Yarısı\Sayının Karesi Yarısı\bin\Debug\Sayının Karesi Yarısı.exe
+C:\Users\Can\Desktop\Sayının Karesi Yarısı\Sayının Karesi Yarısı\bin\Debug\Sayının Karesi Yarısı.pdb
+C:\Users\Can\Desktop\Sayının Karesi Yarısı\Sayının Karesi Yarısı\obj\Debug\Sayının Karesi Yarısı.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\Sayının Karesi Yarısı\Sayının Karesi Yarısı\obj\Debug\Sayının Karesi Yarısı.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Sayının Karesi Yarısı\Sayının Karesi Yarısı\obj\Debug\Sayının Karesi Yarısı.exe
+C:\Users\Can\Desktop\Sayının Karesi Yarısı\Sayının Karesi Yarısı\obj\Debug\Sayının Karesi Yarısı.pdb
