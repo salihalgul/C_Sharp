@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\İlk Dersimiz\İlk Dersimiz\bin\Debug\İlk Dersimiz.exe.config
+C:\Users\Can\Desktop\İlk Dersimiz\İlk Dersimiz\bin\Debug\İlk Dersimiz.exe
+C:\Users\Can\Desktop\İlk Dersimiz\İlk Dersimiz\bin\Debug\İlk Dersimiz.pdb
+C:\Users\Can\Desktop\İlk Dersimiz\İlk Dersimiz\obj\Debug\İlk Dersimiz.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\İlk Dersimiz\İlk Dersimiz\obj\Debug\İlk Dersimiz.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\İlk Dersimiz\İlk Dersimiz\obj\Debug\İlk Dersimiz.exe
+C:\Users\Can\Desktop\İlk Dersimiz\İlk Dersimiz\obj\Debug\İlk Dersimiz.pdb

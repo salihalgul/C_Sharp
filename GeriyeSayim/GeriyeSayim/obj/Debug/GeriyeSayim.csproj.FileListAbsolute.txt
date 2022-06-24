@@ -1,0 +1,10 @@
+C:\Users\Can\Desktop\GeriyeSayim\GeriyeSayim\bin\Debug\GeriyeSayim.exe.config
+C:\Users\Can\Desktop\GeriyeSayim\GeriyeSayim\bin\Debug\GeriyeSayim.exe
+C:\Users\Can\Desktop\GeriyeSayim\GeriyeSayim\bin\Debug\GeriyeSayim.pdb
+C:\Users\Can\Desktop\GeriyeSayim\GeriyeSayim\obj\Debug\GeriyeSayim.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\GeriyeSayim\GeriyeSayim\obj\Debug\GeriyeSayim.Form1.resources
+C:\Users\Can\Desktop\GeriyeSayim\GeriyeSayim\obj\Debug\GeriyeSayim.Properties.Resources.resources
+C:\Users\Can\Desktop\GeriyeSayim\GeriyeSayim\obj\Debug\GeriyeSayim.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\GeriyeSayim\GeriyeSayim\obj\Debug\GeriyeSayim.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\GeriyeSayim\GeriyeSayim\obj\Debug\GeriyeSayim.exe
+C:\Users\Can\Desktop\GeriyeSayim\GeriyeSayim\obj\Debug\GeriyeSayim.pdb

@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\Inheritance\AbtracTClasses\bin\Debug\AbtracTClasses.exe.config
+C:\Users\Can\Desktop\Inheritance\AbtracTClasses\bin\Debug\AbtracTClasses.exe
+C:\Users\Can\Desktop\Inheritance\AbtracTClasses\bin\Debug\AbtracTClasses.pdb
+C:\Users\Can\Desktop\Inheritance\AbtracTClasses\obj\Debug\AbtracTClasses.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\Inheritance\AbtracTClasses\obj\Debug\AbtracTClasses.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Inheritance\AbtracTClasses\obj\Debug\AbtracTClasses.exe
+C:\Users\Can\Desktop\Inheritance\AbtracTClasses\obj\Debug\AbtracTClasses.pdb

@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\İndirim\İndirim\bin\Debug\İndirim.exe.config
+C:\Users\Can\Desktop\İndirim\İndirim\bin\Debug\İndirim.exe
+C:\Users\Can\Desktop\İndirim\İndirim\bin\Debug\İndirim.pdb
+C:\Users\Can\Desktop\İndirim\İndirim\obj\Debug\İndirim.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\İndirim\İndirim\obj\Debug\İndirim.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\İndirim\İndirim\obj\Debug\İndirim.exe
+C:\Users\Can\Desktop\İndirim\İndirim\obj\Debug\İndirim.pdb
