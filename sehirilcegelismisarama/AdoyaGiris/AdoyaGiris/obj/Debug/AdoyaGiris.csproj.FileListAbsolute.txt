@@ -1,0 +1,22 @@
+C:\Users\Can\Desktop\AdoyaGiris\AdoyaGiris\bin\Debug\AdoyaGiris.exe.config
+C:\Users\Can\Desktop\AdoyaGiris\AdoyaGiris\bin\Debug\AdoyaGiris.exe
+C:\Users\Can\Desktop\AdoyaGiris\AdoyaGiris\bin\Debug\AdoyaGiris.pdb
+C:\Users\Can\Desktop\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.Form1.resources
+C:\Users\Can\Desktop\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.Properties.Resources.resources
+C:\Users\Can\Desktop\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.exe
+C:\Users\Can\Desktop\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.pdb
+D:\C# EGITIM\C# DİĞER EDİTLENMEMİŞLER\AdoyaGiriş Video\AdoyaGiris\AdoyaGiris\bin\Debug\AdoyaGiris.exe.config
+D:\C# EGITIM\C# DİĞER EDİTLENMEMİŞLER\AdoyaGiriş Video\AdoyaGiris\AdoyaGiris\bin\Debug\AdoyaGiris.exe
+D:\C# EGITIM\C# DİĞER EDİTLENMEMİŞLER\AdoyaGiriş Video\AdoyaGiris\AdoyaGiris\bin\Debug\AdoyaGiris.pdb
+D:\C# EGITIM\C# DİĞER EDİTLENMEMİŞLER\AdoyaGiriş Video\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.csprojAssemblyReference.cache
+D:\C# EGITIM\C# DİĞER EDİTLENMEMİŞLER\AdoyaGiriş Video\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.Form1.resources
+D:\C# EGITIM\C# DİĞER EDİTLENMEMİŞLER\AdoyaGiriş Video\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.GelismisArama.resources
+D:\C# EGITIM\C# DİĞER EDİTLENMEMİŞLER\AdoyaGiriş Video\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.Properties.Resources.resources
+D:\C# EGITIM\C# DİĞER EDİTLENMEMİŞLER\AdoyaGiriş Video\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.Sehirİlce.resources
+D:\C# EGITIM\C# DİĞER EDİTLENMEMİŞLER\AdoyaGiriş Video\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.csproj.GenerateResource.cache
+D:\C# EGITIM\C# DİĞER EDİTLENMEMİŞLER\AdoyaGiriş Video\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.csproj.CoreCompileInputs.cache
+D:\C# EGITIM\C# DİĞER EDİTLENMEMİŞLER\AdoyaGiriş Video\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.exe
+D:\C# EGITIM\C# DİĞER EDİTLENMEMİŞLER\AdoyaGiriş Video\AdoyaGiris\AdoyaGiris\obj\Debug\AdoyaGiris.pdb

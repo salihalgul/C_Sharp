@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\TitleCursorsizeBackgroundColor\TitleCursorsizeBackgroundColor\bin\Debug\TitleCursorsizeBackgroundColor.exe.config
+C:\Users\Can\Desktop\TitleCursorsizeBackgroundColor\TitleCursorsizeBackgroundColor\bin\Debug\TitleCursorsizeBackgroundColor.exe
+C:\Users\Can\Desktop\TitleCursorsizeBackgroundColor\TitleCursorsizeBackgroundColor\bin\Debug\TitleCursorsizeBackgroundColor.pdb
+C:\Users\Can\Desktop\TitleCursorsizeBackgroundColor\TitleCursorsizeBackgroundColor\obj\Debug\TitleCursorsizeBackgroundColor.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\TitleCursorsizeBackgroundColor\TitleCursorsizeBackgroundColor\obj\Debug\TitleCursorsizeBackgroundColor.exe
+C:\Users\Can\Desktop\TitleCursorsizeBackgroundColor\TitleCursorsizeBackgroundColor\obj\Debug\TitleCursorsizeBackgroundColor.pdb

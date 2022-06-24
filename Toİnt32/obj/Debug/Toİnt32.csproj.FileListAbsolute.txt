@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\Toİnt32\Toİnt32\bin\Debug\Toİnt32.exe.config
+C:\Users\Can\Desktop\Toİnt32\Toİnt32\bin\Debug\Toİnt32.exe
+C:\Users\Can\Desktop\Toİnt32\Toİnt32\bin\Debug\Toİnt32.pdb
+C:\Users\Can\Desktop\Toİnt32\Toİnt32\obj\Debug\Toİnt32.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\Toİnt32\Toİnt32\obj\Debug\Toİnt32.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Toİnt32\Toİnt32\obj\Debug\Toİnt32.exe
+C:\Users\Can\Desktop\Toİnt32\Toİnt32\obj\Debug\Toİnt32.pdb
