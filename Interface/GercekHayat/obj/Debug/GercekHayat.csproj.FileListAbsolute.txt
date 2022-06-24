@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\Interface\GercekHayat\bin\Debug\GercekHayat.exe.config
+C:\Users\Can\Desktop\Interface\GercekHayat\bin\Debug\GercekHayat.exe
+C:\Users\Can\Desktop\Interface\GercekHayat\bin\Debug\GercekHayat.pdb
+C:\Users\Can\Desktop\Interface\GercekHayat\obj\Debug\GercekHayat.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\Interface\GercekHayat\obj\Debug\GercekHayat.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Interface\GercekHayat\obj\Debug\GercekHayat.exe
+C:\Users\Can\Desktop\Interface\GercekHayat\obj\Debug\GercekHayat.pdb

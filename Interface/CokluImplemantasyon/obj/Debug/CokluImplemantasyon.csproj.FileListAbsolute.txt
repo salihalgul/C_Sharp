@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\Interface\CokluImplemantasyon\bin\Debug\CokluImplemantasyon.exe.config
+C:\Users\Can\Desktop\Interface\CokluImplemantasyon\bin\Debug\CokluImplemantasyon.exe
+C:\Users\Can\Desktop\Interface\CokluImplemantasyon\bin\Debug\CokluImplemantasyon.pdb
+C:\Users\Can\Desktop\Interface\CokluImplemantasyon\obj\Debug\CokluImplemantasyon.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\Interface\CokluImplemantasyon\obj\Debug\CokluImplemantasyon.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Interface\CokluImplemantasyon\obj\Debug\CokluImplemantasyon.exe
+C:\Users\Can\Desktop\Interface\CokluImplemantasyon\obj\Debug\CokluImplemantasyon.pdb

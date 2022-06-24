@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Can\Desktop\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Can\Desktop\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Can\Desktop\Interface\Interface\obj\Debug\Interface.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Can\Desktop\Interface\Interface\obj\Debug\Interface.pdb
