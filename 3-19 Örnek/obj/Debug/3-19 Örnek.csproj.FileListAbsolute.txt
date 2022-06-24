@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\3-19 Örnek\3-19 Örnek\bin\Debug\3-19 Örnek.exe.config
+C:\Users\Can\Desktop\3-19 Örnek\3-19 Örnek\bin\Debug\3-19 Örnek.exe
+C:\Users\Can\Desktop\3-19 Örnek\3-19 Örnek\bin\Debug\3-19 Örnek.pdb
+C:\Users\Can\Desktop\3-19 Örnek\3-19 Örnek\obj\Debug\3-19 Örnek.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\3-19 Örnek\3-19 Örnek\obj\Debug\3-19 Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\3-19 Örnek\3-19 Örnek\obj\Debug\3-19 Örnek.exe
+C:\Users\Can\Desktop\3-19 Örnek\3-19 Örnek\obj\Debug\3-19 Örnek.pdb
