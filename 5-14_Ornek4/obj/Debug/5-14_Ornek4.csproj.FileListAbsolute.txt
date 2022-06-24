@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\5-14_Ornek4\5-14_Ornek4\bin\Debug\5-14_Ornek4.exe.config
+C:\Users\Can\Desktop\5-14_Ornek4\5-14_Ornek4\bin\Debug\5-14_Ornek4.exe
+C:\Users\Can\Desktop\5-14_Ornek4\5-14_Ornek4\bin\Debug\5-14_Ornek4.pdb
+C:\Users\Can\Desktop\5-14_Ornek4\5-14_Ornek4\obj\Debug\5-14_Ornek4.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\5-14_Ornek4\5-14_Ornek4\obj\Debug\5-14_Ornek4.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\5-14_Ornek4\5-14_Ornek4\obj\Debug\5-14_Ornek4.exe
+C:\Users\Can\Desktop\5-14_Ornek4\5-14_Ornek4\obj\Debug\5-14_Ornek4.pdb

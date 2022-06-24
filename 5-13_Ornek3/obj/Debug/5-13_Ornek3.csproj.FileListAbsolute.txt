@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\5-13_Ornek3\5-13_Ornek3\bin\Debug\5-13_Ornek3.exe.config
+C:\Users\Can\Desktop\5-13_Ornek3\5-13_Ornek3\bin\Debug\5-13_Ornek3.exe
+C:\Users\Can\Desktop\5-13_Ornek3\5-13_Ornek3\bin\Debug\5-13_Ornek3.pdb
+C:\Users\Can\Desktop\5-13_Ornek3\5-13_Ornek3\obj\Debug\5-13_Ornek3.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\5-13_Ornek3\5-13_Ornek3\obj\Debug\5-13_Ornek3.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\5-13_Ornek3\5-13_Ornek3\obj\Debug\5-13_Ornek3.exe
+C:\Users\Can\Desktop\5-13_Ornek3\5-13_Ornek3\obj\Debug\5-13_Ornek3.pdb

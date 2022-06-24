@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\5-15_Alfabe\5-15_Alfabe\bin\Debug\5-15_Alfabe.exe.config
+C:\Users\Can\Desktop\5-15_Alfabe\5-15_Alfabe\bin\Debug\5-15_Alfabe.exe
+C:\Users\Can\Desktop\5-15_Alfabe\5-15_Alfabe\bin\Debug\5-15_Alfabe.pdb
+C:\Users\Can\Desktop\5-15_Alfabe\5-15_Alfabe\obj\Debug\5-15_Alfabe.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\5-15_Alfabe\5-15_Alfabe\obj\Debug\5-15_Alfabe.exe
+C:\Users\Can\Desktop\5-15_Alfabe\5-15_Alfabe\obj\Debug\5-15_Alfabe.pdb
