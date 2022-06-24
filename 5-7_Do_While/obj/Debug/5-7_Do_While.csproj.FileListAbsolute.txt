@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\5-7_Do_While\5-7_Do_While\bin\Debug\5-7_Do_While.exe.config
+C:\Users\Can\Desktop\5-7_Do_While\5-7_Do_While\bin\Debug\5-7_Do_While.exe
+C:\Users\Can\Desktop\5-7_Do_While\5-7_Do_While\bin\Debug\5-7_Do_While.pdb
+C:\Users\Can\Desktop\5-7_Do_While\5-7_Do_While\obj\Debug\5-7_Do_While.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\5-7_Do_While\5-7_Do_While\obj\Debug\5-7_Do_While.exe
+C:\Users\Can\Desktop\5-7_Do_While\5-7_Do_While\obj\Debug\5-7_Do_While.pdb

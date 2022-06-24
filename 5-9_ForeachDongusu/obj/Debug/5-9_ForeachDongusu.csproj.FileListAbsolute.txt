@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\5-9_ForeachDongusu\5-9_ForeachDongusu\bin\Debug\5-9_ForeachDongusu.exe.config
+C:\Users\Can\Desktop\5-9_ForeachDongusu\5-9_ForeachDongusu\bin\Debug\5-9_ForeachDongusu.exe
+C:\Users\Can\Desktop\5-9_ForeachDongusu\5-9_ForeachDongusu\bin\Debug\5-9_ForeachDongusu.pdb
+C:\Users\Can\Desktop\5-9_ForeachDongusu\5-9_ForeachDongusu\obj\Debug\5-9_ForeachDongusu.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\5-9_ForeachDongusu\5-9_ForeachDongusu\obj\Debug\5-9_ForeachDongusu.exe
+C:\Users\Can\Desktop\5-9_ForeachDongusu\5-9_ForeachDongusu\obj\Debug\5-9_ForeachDongusu.pdb
