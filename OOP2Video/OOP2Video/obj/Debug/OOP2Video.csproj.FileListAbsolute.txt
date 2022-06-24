@@ -1,0 +1,10 @@
+C:\Users\Can\Desktop\OOP2Video\OOP2Video\obj\Debug\OOP2Video.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\OOP2Video\OOP2Video\obj\Debug\OOP2Video.Form1.resources
+C:\Users\Can\Desktop\OOP2Video\OOP2Video\obj\Debug\OOP2Video.Properties.Resources.resources
+C:\Users\Can\Desktop\OOP2Video\OOP2Video\obj\Debug\OOP2Video.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\OOP2Video\OOP2Video\obj\Debug\OOP2Video.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\OOP2Video\OOP2Video\bin\Debug\OOP2Video.exe.config
+C:\Users\Can\Desktop\OOP2Video\OOP2Video\bin\Debug\OOP2Video.exe
+C:\Users\Can\Desktop\OOP2Video\OOP2Video\bin\Debug\OOP2Video.pdb
+C:\Users\Can\Desktop\OOP2Video\OOP2Video\obj\Debug\OOP2Video.exe
+C:\Users\Can\Desktop\OOP2Video\OOP2Video\obj\Debug\OOP2Video.pdb

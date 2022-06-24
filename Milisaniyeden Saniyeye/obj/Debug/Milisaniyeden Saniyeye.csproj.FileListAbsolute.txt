@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\Milisaniyeden Saniyeye\Milisaniyeden Saniyeye\bin\Debug\Milisaniyeden Saniyeye.exe.config
+C:\Users\Can\Desktop\Milisaniyeden Saniyeye\Milisaniyeden Saniyeye\bin\Debug\Milisaniyeden Saniyeye.exe
+C:\Users\Can\Desktop\Milisaniyeden Saniyeye\Milisaniyeden Saniyeye\bin\Debug\Milisaniyeden Saniyeye.pdb
+C:\Users\Can\Desktop\Milisaniyeden Saniyeye\Milisaniyeden Saniyeye\obj\Debug\Milisaniyeden Saniyeye.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\Milisaniyeden Saniyeye\Milisaniyeden Saniyeye\obj\Debug\Milisaniyeden Saniyeye.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\Milisaniyeden Saniyeye\Milisaniyeden Saniyeye\obj\Debug\Milisaniyeden Saniyeye.exe
+C:\Users\Can\Desktop\Milisaniyeden Saniyeye\Milisaniyeden Saniyeye\obj\Debug\Milisaniyeden Saniyeye.pdb
