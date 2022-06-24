@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\4-10_Hataları_Fırlatma\4-10_Hataları_Fırlatma\bin\Debug\4-10_Hataları_Fırlatma.exe.config
+C:\Users\Can\Desktop\4-10_Hataları_Fırlatma\4-10_Hataları_Fırlatma\bin\Debug\4-10_Hataları_Fırlatma.exe
+C:\Users\Can\Desktop\4-10_Hataları_Fırlatma\4-10_Hataları_Fırlatma\bin\Debug\4-10_Hataları_Fırlatma.pdb
+C:\Users\Can\Desktop\4-10_Hataları_Fırlatma\4-10_Hataları_Fırlatma\obj\Debug\4-10_Hataları_Fırlatma.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\4-10_Hataları_Fırlatma\4-10_Hataları_Fırlatma\obj\Debug\4-10_Hataları_Fırlatma.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\4-10_Hataları_Fırlatma\4-10_Hataları_Fırlatma\obj\Debug\4-10_Hataları_Fırlatma.exe
+C:\Users\Can\Desktop\4-10_Hataları_Fırlatma\4-10_Hataları_Fırlatma\obj\Debug\4-10_Hataları_Fırlatma.pdb

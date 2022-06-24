@@ -1,0 +1,6 @@
+C:\Users\Can\Desktop\4-8 Örnek\4-8 Örnek\bin\Debug\4-8 Örnek.exe.config
+C:\Users\Can\Desktop\4-8 Örnek\4-8 Örnek\bin\Debug\4-8 Örnek.exe
+C:\Users\Can\Desktop\4-8 Örnek\4-8 Örnek\bin\Debug\4-8 Örnek.pdb
+C:\Users\Can\Desktop\4-8 Örnek\4-8 Örnek\obj\Debug\4-8 Örnek.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\4-8 Örnek\4-8 Örnek\obj\Debug\4-8 Örnek.exe
+C:\Users\Can\Desktop\4-8 Örnek\4-8 Örnek\obj\Debug\4-8 Örnek.pdb

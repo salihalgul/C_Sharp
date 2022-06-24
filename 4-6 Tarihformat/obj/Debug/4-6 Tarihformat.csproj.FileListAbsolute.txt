@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\4-6 Tarihformat\4-6 Tarihformat\bin\Debug\4-6 Tarihformat.exe.config
+C:\Users\Can\Desktop\4-6 Tarihformat\4-6 Tarihformat\bin\Debug\4-6 Tarihformat.exe
+C:\Users\Can\Desktop\4-6 Tarihformat\4-6 Tarihformat\bin\Debug\4-6 Tarihformat.pdb
+C:\Users\Can\Desktop\4-6 Tarihformat\4-6 Tarihformat\obj\Debug\4-6 Tarihformat.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\4-6 Tarihformat\4-6 Tarihformat\obj\Debug\4-6 Tarihformat.exe
+C:\Users\Can\Desktop\4-6 Tarihformat\4-6 Tarihformat\obj\Debug\4-6 Tarihformat.pdb
+C:\Users\Can\Desktop\4-6 Tarihformat\4-6 Tarihformat\obj\Debug\4-6 Tarihformat.csprojAssemblyReference.cache
