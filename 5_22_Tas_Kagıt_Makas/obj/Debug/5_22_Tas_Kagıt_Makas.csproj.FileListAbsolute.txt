@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\5_22_Tas_Kagıt_Makas\5_22_Tas_Kagıt_Makas\bin\Debug\5_22_Tas_Kagıt_Makas.exe.config
+C:\Users\Can\Desktop\5_22_Tas_Kagıt_Makas\5_22_Tas_Kagıt_Makas\bin\Debug\5_22_Tas_Kagıt_Makas.exe
+C:\Users\Can\Desktop\5_22_Tas_Kagıt_Makas\5_22_Tas_Kagıt_Makas\bin\Debug\5_22_Tas_Kagıt_Makas.pdb
+C:\Users\Can\Desktop\5_22_Tas_Kagıt_Makas\5_22_Tas_Kagıt_Makas\obj\Debug\5_22_Tas_Kagıt_Makas.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\5_22_Tas_Kagıt_Makas\5_22_Tas_Kagıt_Makas\obj\Debug\5_22_Tas_Kagıt_Makas.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\5_22_Tas_Kagıt_Makas\5_22_Tas_Kagıt_Makas\obj\Debug\5_22_Tas_Kagıt_Makas.exe
+C:\Users\Can\Desktop\5_22_Tas_Kagıt_Makas\5_22_Tas_Kagıt_Makas\obj\Debug\5_22_Tas_Kagıt_Makas.pdb

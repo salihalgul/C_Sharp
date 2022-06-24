@@ -1,0 +1,7 @@
+C:\Users\Can\Desktop\5-4_For_Dongusu\5-4_For_Dongusu\bin\Debug\5-4_For_Dongusu.exe.config
+C:\Users\Can\Desktop\5-4_For_Dongusu\5-4_For_Dongusu\bin\Debug\5-4_For_Dongusu.exe
+C:\Users\Can\Desktop\5-4_For_Dongusu\5-4_For_Dongusu\bin\Debug\5-4_For_Dongusu.pdb
+C:\Users\Can\Desktop\5-4_For_Dongusu\5-4_For_Dongusu\obj\Debug\5-4_For_Dongusu.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\5-4_For_Dongusu\5-4_For_Dongusu\obj\Debug\5-4_For_Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\5-4_For_Dongusu\5-4_For_Dongusu\obj\Debug\5-4_For_Dongusu.exe
+C:\Users\Can\Desktop\5-4_For_Dongusu\5-4_For_Dongusu\obj\Debug\5-4_For_Dongusu.pdb
